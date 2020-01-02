@@ -73,10 +73,10 @@ address {
 }
 aside > div {
 	margin: 3px auto;
-	background: #AEC6CF;
+	background: #F87217;
 	min-height: 300px;
 	font-size: 20px;
-	border-radius: 10px;
+	border-radius:;
 }
 #logo {
     display: inline-block;
